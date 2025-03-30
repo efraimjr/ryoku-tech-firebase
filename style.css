@@ -1,0 +1,47 @@
+.ryoku-logo {
+    width: 2rem;
+    height: 2rem;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-brand h4 {
+    margin: 0%;
+    margin-left: 5px;
+    font-size: 16px;
+    font-weight:bold;
+}
+
+.nav-item {
+    padding: 20px 15px !important;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #336fbf;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.nav-link:hover {
+    color: #336fbf !important;
+    transition-delay: 0.5s ease-out;
+}
+
+.active {
+    color: #336fbf !important;
+    transition-delay: 0.5s ease-out;
+}
+/* nav .navbar-nav li a:hover{
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -ms-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+    background-color: #333;
+    color: #fff !important;
+    border-radius: 6px;
+    
+} */
